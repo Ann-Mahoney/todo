@@ -35,7 +35,7 @@ function App() {
   return (
     <div className="App">
       {/* <div className="contain">
-        <h2>List Of Stuff I have To Do</h2>
+        <h2>List Of Stuff I Have To Do</h2>
         <hr />
         <div className="inputs">
           <input
