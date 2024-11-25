@@ -1,7 +1,7 @@
 import "./App.css";
 import { useState } from "react";
 import { FaPlus, FaTrash, FaEdit, FaSave } from "react-icons/fa";
-import Counter from "./components/Counter";
+import Counter from "./components/counter";
 
 function App() {
   const [tasks, setTasks] = useState([]);
